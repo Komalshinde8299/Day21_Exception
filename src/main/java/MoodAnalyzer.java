@@ -1,4 +1,4 @@
-import java.util.Locale;
+
 
 public class MoodAnalyzer {
 
@@ -15,10 +15,10 @@ public class MoodAnalyzer {
         }
     }
 
-    public static void main(String[] args) {
-        MoodAnalyzer moodAnalyzer = new MoodAnalyzer();
-        moodAnalyzer.analyseMood("I am Happy");
-
-    }
+//    public static void main(String[] args) {
+//        MoodAnalyzer moodAnalyzer = new MoodAnalyzer();
+//        moodAnalyzer.analyseMood("I am Happy");
+//
+//    }
 
 }
